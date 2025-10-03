@@ -1,0 +1,73 @@
+name: 历史上的今天 · 每周数据集更新
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'      # 每周一 00:00 UTC
+  workflow_dispatch:         # 手动触发按钮
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # 用于 push 与创建 release
+
+    steps:
+      # 1. 拉代码
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 2. 装 PHP 8.0（脚本里用了 8.0 语法）
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.0'
+          extensions: mbstring, dom, pdo, pdo_sqlite
+          coverage: none
+
+      # 3. 装 composer 依赖
+      - name: Install dependencies
+        run: composer install --no-dev --no-progress --prefer-dist
+
+      # 4. 运行爬虫+生成 JSON/SQL/SQLite/CSV
+      - name: Crawl & generate datasets
+        run: php main.php
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 5. 把生成的文件提交回仓库
+      - name: Commit & push changes
+        run: |
+          git config user.name  "github-actions"
+          git config user.email "github-actions@github.com"
+          git add history_in_today.* releases/
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "数据集更新 $(date +%Y%m%d)"
+          git push
+
+      # 6. 准备日期变量
+      - name: Set date variables
+        run: |
+          echo "YEAR=$(date +%Y)" >> $GITHUB_ENV
+          echo "WEEK=$(date +%V)" >> $GITHUB_ENV
+          echo "DATE=$(date +%Y%m%d)" >> $GITHUB_ENV
+
+      # 7. 创建 Release：名称与描述均使用「数据集更新+日期」
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: dataset-${{ env.DATE }}
+          name: 数据集更新 ${{ env.DATE }}
+          body: |
+            本周（${{ env.YEAR }} 年第 ${{ env.WEEK }} 周）历史上的今天数据集自动更新。
+            包含文件：
+            - `history_in_today.json`
+            - `history_in_today.sql`
+            - `history_in_today.sqlite`
+            - `history_in_today.csv`
+          files: |
+            history_in_today.json
+            history_in_today.sql
+            history_in_today.sqlite
+            history_in_today.csv
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
