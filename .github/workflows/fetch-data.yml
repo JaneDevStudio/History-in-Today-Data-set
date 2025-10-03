@@ -55,7 +55,7 @@ jobs:
       - name: Create release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: dataset-${{ env.DATE }}
+          tag_name: dataset-z${{ env.DATE }}
           name: 数据集更新 ${{ env.DATE }}
           body: |
             本周（${{ env.YEAR }} 年第 ${{ env.WEEK }} 周）历史上的今天数据集自动更新。
