@@ -1,0 +1,8 @@
+{
+    "require": {
+        "clue/buzz-react": "^2.9",
+        "react/http": "^1.11",
+        "react/event-loop": "^1.5",
+        "react/promise": "^2.11"
+    }
+}
