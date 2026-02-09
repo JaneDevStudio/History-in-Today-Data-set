@@ -19,7 +19,7 @@
 - **起始**：人类文明出现“纪日”概念的可考年代（公元前 3000 年级别）  
 - **截止**：上周（数据集每周自动更新，不含最新一周）  
 - **闰年 2-29** 已单独收录，共 366 条 `mm-dd` 记录，**公历日日齐全**
-具体得看维基百科最早的记录了，我也不太清楚，因为都是`JaneDevStudioBot/2.0 (+https://github.com/JaneDevStudio) master@zeapi.ink`这个爬虫爬的。
+具体得看维基百科最早的记录了，我也不太清楚，因为都是`JaneDevStudioBot/2.0 (+https://github.com/JaneDevStudio) mengze2@foxmail.com`这个爬虫爬的。
 
 > 注：脚本里仅借用 2000 年（闰年）的日历模板来生成 366 个日期占位符，实际内容按真实年份抓取，与 2000 年无关。
 
