@@ -8,7 +8,7 @@ const SQLITE_FILE = __DIR__ . '/history_in_today.sqlite';
 const CSV_FILE    = __DIR__ . '/history_in_today.csv';
 const CACHE_DIR   = __DIR__ . '/cache';
 const CONCURRENCY = 1;
-const UA = 'JaneDevStudioBot/2.0 (+https://github.com/JaneDevStudio) master@zeapi.ink';
+const UA = 'JaneDevStudioBot/2.0 (+https://github.com/JaneDevStudio) mengze2@foxmail.com';
 
 require __DIR__ . '/vendor/autoload.php';
 
