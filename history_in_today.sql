@@ -1,5 +1,5 @@
 -- MySQL dump
--- Date: 2026-02-09 01:06:16
+-- Date: 2026-02-16 01:03:46
 
 DROP TABLE IF EXISTS history_in_today;
 CREATE TABLE history_in_today (
@@ -459,6 +459,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('01-03','births','2
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-03','births','2004年：松尾美佑，日本女子偶像團體乃木坂46新四期生');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-03','births','2006年：塔拉·巴布尔法特，瑞典女子柔道運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-03','births','2008年：蕾根·雷沃德，美國女演員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-03','births','2008年：金主訓，韓國男子偶像團體CORTIS成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-03','births','生年不詳：龍門睦月，日本男性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-03','births','生年不詳：永井真里子，日本女性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-03','deaths','753年：李林甫，唐朝宰相（683年出生）');
@@ -872,6 +873,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('01-06','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-06','births','1956年：贾斯汀·韦尔比，英國及英格蘭教會聖職者、政治家，105任坎特伯里大主教');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-06','births','1960年：保羅·阿辛格，美國職業高爾夫球選手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-06','births','1960年：奈潔拉·勞森，英國美食作家、記者、主持人');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-06','births','1961年：范宗沛，臺灣大提琴家、作曲家、配樂家（2026年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-06','births','1965年：比約恩·隆伯格，丹麦作家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-06','births','1969年：諾曼·李杜斯，美國男演員、模特兒');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-06','births','1973年：青島崇，日本小說家、編劇');
@@ -1855,6 +1857,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('01-12','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-12','births','1997年：本庄鈴，日本AV女優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-12','births','1998年：林愷倫，美籍華裔女歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-12','births','1999年：田村真佑，日本女子偶像團體乃木坂46四期生');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-12','births','1999年：弗拉季斯拉夫·赫拉斯凱維奇，烏克蘭男子空架雪車運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-12','births','2002年：巴林·米勒，美國登山家（2025年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-12','births','2003年：本鄉柚巴，日本女子偶像團體NMB48前成員、寫真偶像');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-12','births','2005年：Yuika，日本女性創作歌手');
@@ -1982,6 +1985,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('01-13','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-13','births','1999年：葛綽瑤，香港女藝人');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-13','births','2000年：魏嘉豪，臺灣男子籃球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-13','births','2006年：普里布勒·汶頌，泰國男子田徑運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-13','births','2009年：嚴成玹，韓國男子偶像團體CORTIS成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-13','deaths','前86年：盖乌斯·马略，古罗马军事统帅和政治家（前157年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-13','deaths','569年：齊武成帝高湛，北齊皇帝（537年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-13','deaths','703年：持統天皇，日本第41代天皇（645年出生）');
@@ -2858,6 +2862,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('01-19','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-19','births','1993年：金慧林，韓國女子偶像團體Hello Venus成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-19','births','1995年：黎厚希，香港足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-19','births','1996年：胡亞丹，中國女子跳水運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-19','births','1996年：布丽兹·约翰逊，美國女子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-19','births','1999年：曹家齊，臺灣男子偶像團體FEniX成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-19','births','2000年：崔多彬，韓國女子花樣滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-19','births','2001年：陈昕葳，台灣女藝人');
@@ -2917,6 +2922,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1936年：愛德華·費根鮑姆，美國計算機科學家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1938年：朱銘，臺灣雕刻家（2023年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1939年：泰瑞·衛曲，美國計算機科學家（1988年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1940年：雅娜·布賴霍瓦，捷克女演員（2026年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1946年：大卫·林奇，美國導演、編劇、製片人、作曲家、攝影家（2025年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1948年：梁家仁，香港武打演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1950年：斯琴高娃，中國演員');
@@ -2960,6 +2966,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1994年：盧卡斯·皮亞松，巴西職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1994年：里卡多·平托，委內瑞拉職業棒球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1995年：金昭希，韓國女歌手');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1995年：阿麗亞娜·雷德勒爾，奧地利女子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1996年：杨惠智，韓國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','1997年：李浩貞，韓國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-20','births','2000年：李紫婷，中國女子偶像團體火箭少女101成員');
@@ -3799,6 +3806,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('01-27','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-27','births','1979年：古山貴實子，日本女性聲優。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-27','births','1979年：露莎蒙·碧姬，英国女演员。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-27','births','1980年：马拉特·萨芬，俄羅斯網球運動員。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-27','births','1981年：石狩勇氣，日本男性聲優。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-27','births','1982年：熊木杏里，日本女歌手。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-27','births','1983年：申東靖，台灣男演員。（2012年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-27','births','1985年：森山愛子，日本演歌女歌手。');
@@ -4111,6 +4119,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('01-29','deaths','2
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-29','deaths','2015年：柯林·馬嘉露，澳大利亞作家（1937年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-29','deaths','2016年：李國士，前香港漁農處處長（1925年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-29','deaths','2021年：栃乃海晃嘉，日本相撲力士，第49代橫綱（1938年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-29','deaths','2023年：麥考蓮，加拿大政治人物（1921年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-29','deaths','2024年：桐島聰，日本無政府主義者、恐怖分子（1954年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-29','deaths','2024年：蘆原妃名子，日本漫畫家（1974年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-29','deaths','2025年：張立威，台灣男演員（1968年出生）');
@@ -4189,6 +4198,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('01-30','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-30','births','1986年：松岡李那，日籍香港女模特');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-30','births','1989年：白成鉉，韓國男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-30','births','1989年：姜漢娜，韓國女演員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-30','births','1989年：金相謙，韓國男子單板滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-30','births','1990年：李溪芮，中國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-30','births','1990年：李絮，韓國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-30','births','1990年：艾莎·岡薩雷，墨西哥女演員、歌手');
@@ -4284,6 +4294,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1971年：安德烈·帕魯比，烏克蘭政治人物（2025年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1971年：李英愛，韓國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1971年：康高寶，匈牙利宗教史學家');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1974年：武虎，日本男性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1974年：麥克·瓦爾茲，美國政治人物，現任國家安全顧問');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1975年：普丽缇·泽塔，印度演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1977年：香取慎吾，日本藝人');
@@ -4306,13 +4317,14 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1995年：久保田未夢，日本女性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1995年：李佳歡，馬來西亞女歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1996年：蘇芷晴，香港女歌手');
-INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1997年：曺薇娟，韓國女子偶像團體(G)I-DLE成員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1997年：曹薇娟，韓國女子偶像團體(G)I-DLE成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1997年：唐特·迪文森佐，美國職業籃球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1998年：樋口日奈，日本女子偶像團體乃木坂46成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','1998年：鄭禹奭，韓國男子偶像團體PENTAGON成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','2000年：威廉·利馬，巴西男子柔道運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','2000年：烏戈·吉利亞蒙，西班牙職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','2000年：朱利安·阿爾瓦雷斯，阿根廷職業足球運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','2001年：蕭傳文，法國男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','births','2004年：查理·韦伯斯特，英格蘭職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','deaths','1398年：崇光天皇，日本北朝第3代天皇（1334年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('01-31','deaths','1606年：盖伊·福克斯，英格蘭天主教陰謀組織成員（1570年出生）');
@@ -4523,6 +4535,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-02','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-02','births','1987年：錢俞安，台灣演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-02','births','1987年：宋茜，韓國女子偶像團體F(x)隊長');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-02','births','1988年：梁諾妍，香港全職模特兒、跑步健身教練');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-02','births','1988年：馬爾科·法布里，義大利男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-02','births','1989年：伊萬·佩里希奇，克羅埃西亞職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-02','births','1989年：司徒鈺芸，香港動作演員、歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-02','births','1990年：鄭河娜，韓國歌手、舞者');
@@ -5035,6 +5048,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','births','2000年：康諾·加拉格爾，英格蘭職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','births','2000年：尤爾根·拉爾森，挪威職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','births','2002年：村竹拉希德，日本男子田徑運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','births','2004年：佐藤駿，日本男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','births','2004年：亞當·沃頓，英格蘭職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','births','生年不詳：川上弘美，日本女性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','893年：佛提烏，君士坦丁堡普世牧首（約815年出生）');
@@ -5044,7 +5058,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','1612年：克里斯托佛·克拉烏，德國數學家（1538年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','1685年：查理二世，英格蘭國王（1630年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','1804年：約瑟夫·普利斯特里，英國自然哲學家、化學家（1733年出生）');
-INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','1833年：皮耶·安德烈·拉特雷耶，法國動物學家、天主教牧師（1762年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','1833年：皮埃尔·安德烈·拉特雷耶，法國動物學家、天主教牧師（1762年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','1852年：亞當·艾克菲爾特，美國鑄幣局早期工匠、官員（1769年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','1865年：林日成，清代台灣民變戴潮春事件領導人之一');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','1904年：落合芳幾，日本浮世繪師（1833年出生）');
@@ -5096,6 +5110,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','2
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','2024年：約翰·布魯頓，愛爾蘭政治人物，第10任愛爾蘭總理（1947年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','2024年：塞巴斯蒂安·皮涅拉，智利企業家、政治人物，第35、37任智利總統（1949年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','2025年：黃旭華，中國船舶工程師（1926年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-06','deaths','2026年：雅娜·布賴霍瓦，捷克女演員（1940年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-07','events','457年：在东罗马帝国军事指挥官阿斯帕推举下，利奥一世加冕成为拜占庭皇帝。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-07','events','1301年：英格兰国王爱德华一世将威尔斯亲王封号授予儿子爱德华二世，其后该头衔沿用至今。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-07','events','1313年：底哈都建立彬牙王国，宣称法理上继承了缅甸的蒲甘王国。');
@@ -5210,6 +5225,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-07','deaths','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-07','deaths','1878年：真福教宗庇護九世，羅馬主教（1792年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-07','deaths','1885年：岩崎彌太郎，日本企業家，三菱財閥奠基者（1835年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-07','deaths','1896年：威廉·海登·英格利希，美國政治人物，曾任印第安納州聯邦眾議員（1822年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-07','deaths','1898年：阿道弗·法沙利，義大利攝影師（1841年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-07','deaths','1923年：林祥谦，京汉铁路总工会江岸分工会委员长，京汉铁路江岸机厂钳工，二七大罢工工人领袖（1892年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-07','deaths','1931年：左联五烈士 柔石，中國作家（1902年出生） 胡也频，中國作家（1903年出生） 李伟森，中國作家（1903年出生） 冯铿，中國作家（1907年出生） 殷夫，中國作家（1909年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-07','deaths','柔石，中國作家（1902年出生）');
@@ -5398,6 +5414,8 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-08','deaths','2
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-08','deaths','2023年：米洛斯拉夫·布拉澤維奇，克羅埃西亞足球教練（1935年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-08','deaths','2024年：郭常喜，臺灣刀劍工藝師（1946年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-08','deaths','2025年：薩姆·努喬馬，納米比亞政治人物，首任納米比亞總統（1929年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-08','deaths','2026年：水野清隆，日本超級人瑞（1914年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-08','deaths','2026年：韋基舜，香港商人、報業人士、體育界人士（1933年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-09','events','1234年：蒙古帝国和宋朝联军在蔡州之战中攻陷金哀宗所在的蔡州城，金朝灭亡。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-09','events','1667年：俄羅斯沙皇國和波蘭立陶宛聯邦簽署《安德魯索沃停戰協定》，俄波戰爭結束。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-09','events','1799年：美法短暫衝突：美國海軍星座號巡防艦（英语：USS Constellation (1797)）在加勒比海的單艦海戰中俘獲法國叛亂者號巡防艦（英语：USS Insurgent）。');
@@ -5553,6 +5571,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','births','1936年：亞伯拉罕·藍波，以色列計算機科學家（2023年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','births','1942年：約翰·克拉克，美國物理學家，2025年諾貝爾物理學獎得主');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','births','1949年：柯一正，台灣導演');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','births','1950年：島田洋七，日本漫才師、作家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','births','1951年：羅伯特·艾格，美國商人、傳媒高級行政主管，現任華特迪士尼公司執行長');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','births','1952年：張宏年，臺灣政治人物（2025年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','births','1952年：李显龍，新加坡政治人物，第3任新加坡總理');
@@ -5629,7 +5648,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','deaths','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','deaths','1918年：阿卜杜勒-哈米德二世，鄂圖曼帝國蘇丹、哈里發（1842年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','deaths','1960年：J·H·律敦治，香港企業家、慈善家（1880年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','deaths','1895年：刘步蟾，中国北洋海军定远号管带（1852年出生）');
-INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','deaths','1923年：威廉·伦琴，德国物理学家（1845年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','deaths','1923年：威廉·伦琴，德国物理学家，1901年諾貝爾物理學獎得主（1845年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','deaths','1952年：張子善，中國共產黨天津地區專員，因貪污罪被槍殺。（1914年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','deaths','1952年：劉青山，中國共產黨天津地區專員，因貪污罪被槍殺。（1916年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-10','deaths','1952年：乔治·戴维斯（英语：George Andrew Davis, Jr.），美国二战空战英雄，在朝鲜战争中阵亡（1920年出生）');
@@ -5659,11 +5678,13 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1818年：伯納德·馬奎爾，愛爾蘭裔美國天主教牧師和耶穌會士。（1886年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1833年：梅爾維爾·富勒，美國政治人物、律師、法官，第8任美國首席大法官。（1910年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1839年：喬賽亞·威拉德·吉布斯，美國科學家。（1903年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1841年：阿道弗·法沙利，義大利攝影師。（1898年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1847年：湯瑪斯·愛迪生，美國发明家。（1931年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1861年：西鄉菊次郎，日本外交官、政治人物。（1928年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1869年：海倫·克勒勒-米勒，德國藝術收藏家。（1939年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1878年：卡濟米爾·謝韋里諾維奇·馬列維奇，俄羅斯至上主義創始人、構成主義、幾何抽象派畫家。（1935年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1878年：彼澤·呂克貝爾，丹麥商人、游泳運動員。（1944年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1894年：諫山春樹，日本陸軍軍官。（1990年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1898年：利奧·西拉德，匈牙利裔美國核物理學家、發明家。（1964年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1900年：侯雨利，台灣布商、企業家。（1989年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1904年：露西爾·朗東，法國修女、超級人瑞。（2023年逝世）');
@@ -5706,6 +5727,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1977年：麥克·篠田，美國音樂家、唱片製作人，樂團聯合公園及黑暗堡壘成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1979年：布蘭蒂，美國R&B歌手、演員、電影製作人、音樂製作人。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1981年：莊瑋全，台灣棒球選手。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1981年：凱莉·羅蘭，美國女歌手、演員、電視名人。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1982年：觀月雛乃，日本前AV女優。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1982年：娜塔莉·多莫，英國電影、電視演員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1982年：尼爾·羅伯森，澳大利亞職業司諾克選手。');
@@ -5718,6 +5740,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1987年：貝亞特·福伊茨，瑞士男子高山滑雪運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1988年：李純，中國歌手。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1990年：黃燦盛，韓國男子偶像團體2PM成員。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1991年：無良崇人，日本男子花式滑冰運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1991年：吳承勳，韓國男演員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1992年：金桐俊，韓國男演員，男子偶像團體ZE:A前成員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','births','1992年：泰勒·洛納，美國男演員、模特兒');
@@ -5756,6 +5779,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','1948年：谢尔盖·爱森斯坦，蘇聯電影導演和電影藝術理論家。（1893年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','1986年：法蘭克·赫伯特，美國科幻小說作家。（1920年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','1990年：湯姆·布倫南，美國NBA聯盟職業籃球運動員。（1930年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','1996年：鮑勃·肖，北愛爾蘭科幻小說作家。（1931年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','1999年：蕭乾，中國作家、翻譯家。（1910年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','2003年：馬三立，中國相聲泰斗。（1914年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','2005年：瑪麗·傑克遜，美國數學家、航空航天工程師。（1921年出生）');
@@ -5775,6 +5799,8 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','2
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','2024年：趙安吉，華裔美國企業家。（1973年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','2024年：陳俊翰，臺灣律師、會計師、身心障礙政策倡議者。（1983年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','2024年：凱爾文·基普圖姆，肯亞男子田徑運動員。（1999年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','2026年：元谷外志雄，日本企業家。（1943年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-11','deaths','2026年：詹姆士·范德比克，美國男演員。（1977年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-12','events','55年：尼禄成为罗马帝国皇位继承者。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-12','events','1138年：金国颁布女真文字。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-12','events','1502年：瓦斯科·达·伽马再次从里斯本出发前往印度。');
@@ -5934,6 +5960,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-12','deaths','2
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-12','deaths','2023年：瓦季姆·阿布德拉希托夫，俄羅斯電影導演（1945年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-12','deaths','2024年：矢野博丈，日本企業家，大創百貨創辦人（1943年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-12','deaths','2024年：查克·馬威尼，美國軍人（1949年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-12','deaths','2026年：范宗沛，臺灣大提琴家、作曲家、配樂家（1961年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','events','1258年：蒙古帝国西征军占领巴格达，阿拉伯帝国灭亡。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','events','1542年：在与英格兰国王亨利八世离婚后，凯瑟琳·霍华德因为通奸罪而被斩首处死。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','events','1575年：亨利三世登基成为法国国王，并于同日大婚。');
@@ -6042,6 +6069,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','births','1990年：确吉杰布，西藏第十一世班禪額爾德尼');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','births','1990年：王適嫻，中國女子羽球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','births','1991年：王雙，中國女演員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','births','1991年：丹尼爾·奧謝，美國男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','births','1993年：有村架純，日本女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','births','1994年：孟菲斯·迪比，荷蘭職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','births','1995年：小池彩夢，日本女演員');
@@ -6051,6 +6079,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','births','2003年：特拉維斯·勒德洛，英國飛行員，全球最年輕獨自環繞地球飛行的人');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','deaths','106年：汉和帝劉肇，東漢皇帝（79年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','deaths','547年：高歡，北齊政權奠基者（496年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','deaths','1141年：貝拉二世，匈牙利國王（約1108年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','deaths','1219年：源實朝，日本鎌倉幕府第3代征夷大將軍（1192年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','deaths','1332年：安德洛尼卡二世，東羅馬帝國皇帝（1259年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-13','deaths','1539年：伊莎貝拉·埃斯特，曼圖亞侯爵夫人（1474年出生）');
@@ -6116,6 +6145,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','1912年：胡安·普約爾·加西亞，西班牙間諜（1988年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','1913年：吉米·霍法，美國工會領袖（1975年失蹤）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','1917年：赫伯特·豪普特曼，美國數學家、化學家，1985年諾貝爾化學獎得主（2011年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','1921年：麥考蓮，加拿大政治人物（2023年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','1924年：胡安·恩里萊，菲律賓政治人物（2025年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','1927年：木心，中国诗人，画家（2011年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','1928年：黃秉乾，香港事務律師（2007年逝世）');
@@ -6183,7 +6213,8 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','1997年：在玹，韓國男子偶像團體NCT成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','2000年：李正植，北韓男子乒乓球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','2002年：尼克·沃爾特馬德，德國職業足球運動員');
-INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','2009年：安乾鎬，韓國男團CORTIS成員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','2003年：馬德琳·斯基扎斯，加拿大女子花式滑冰運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','births','2009年：安乾鎬，韓國男子偶像團體CORTIS成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','820年：唐憲宗李純，唐朝皇帝（778年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','1400年：理查二世，英格蘭國王（1367年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','1779年：詹姆斯·庫克，英國皇家海軍軍官、航海家、探險家和製圖師（1728年出生）');
@@ -6205,9 +6236,10 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','2
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','2004年：楊成武，中國共產黨黨員，中國無產階級革命家、軍事家，中國人民政治協商會議第六屆全國委員會副主席，中央軍委原常委、副秘書長，中國人民解放軍原代參謀長（1914年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','2005年：拉菲克·哈里里，黎巴嫩政治家，第41、43任黎巴嫩總理（1944年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','2010年：陳宏瑋，臺灣男性配音員（1976年出生）');
-INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','2013年: 雷抒雁，中国诗人(1942年出生)');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','2013年：雷抒雁，中国诗人(1942年出生)');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','2015年：米歇爾·費列羅，義大利企業家，同名巧克力製造商費列羅公司的持有人（1925年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','2021年：卡洛斯·梅内姆，阿根廷政治人物，第47任阿根廷總統（1930年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','2021年：道格·蒙喬伊，威爾斯司諾克球員（1942年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','2022年：鮑里斯拉夫·伊夫科夫，塞爾維亞西洋棋棋手、特級大師（1933年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','2022年：林崑海，台灣節目製作人、企業家，三立電視共同創辦人（1954年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-14','deaths','2023年：豐田章一郎，日本企業家，前任豐田汽車社長（1925年出生）');
@@ -6224,6 +6256,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1710年：路易十五，法國國王（1774年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1724年：彼得·馮·比隆，庫爾蘭和瑟米加利亞公爵（1800年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1762年：法蘭西斯·布坎南-漢密爾頓，蘇格蘭地理學家、動物學家、植物學家（1829年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1811年：多明戈·福斯蒂诺·萨米恩托，阿根廷政治家、作家、教育家，前任阿根廷總統（1888年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1820年：蘇珊·安東尼，美國女性民權運動領袖（1906年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1823年：李鴻章，中國清朝末期重臣（1901年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1856年：埃米爾·克雷佩林，德國精神病學家，建立了精神病分類體系（1926年逝世）');
@@ -6242,6 +6275,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1944年：亞歷山大·謝列布羅夫，俄羅斯太空人（2013年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1947年：阿布都克里木·納斯爾丁，中國油畫藝術家（2014年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1947年：蘭迪·卡浦爾，印度男演員、電影製作人、導演');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1948年：大古誠司，日本男子排球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1950年：元奎，香港電影導演、武術指導、監製（2022年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1950年：徐克，香港電影導演、編劇、監製、演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1952年：米歇爾·塔拉格朗，法國數學家');
@@ -6292,7 +6326,6 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1993年：黃正宜，香港商业电台叱咤903主持人');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1993年：金元植，韓國男子偶像團體VIXX成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1994年：林子偉，台灣美國職棒大聯盟球員');
-INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1994年：平井啟二，日本男性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1994年：陳世妍，韓國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1994年：Sodapoppin，美國Twitch主播、網絡名人');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','births','1995年：梅根·西·斯塔莉安，美國饒舌歌手、歌手、詞曲作家');
@@ -6330,6 +6363,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','deaths','2
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-15','deaths','2023年：拉寇兒·薇芝，美國女演員（1940年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-16','events','1270年：立陶宛大公國大公特萊德尼斯的軍隊在卡魯塞戰役中擊敗立窩尼亞騎士團。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-16','events','1862年：美國軍官尤利西斯·格蘭特率領聯邦軍在唐納爾遜堡之戰中擊敗邦聯軍。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-16','events','1900年：由卡爾斯滕·博克格雷溫克率領的南十字號遠征，成功將最南端（英语：Farthest South）紀錄推進至南緯78度50分，並首度登陸大冰障。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-16','births','1032年：宋英宗赵曙，北宋皇帝（1067年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-16','births','1222年：日莲，日蓮宗创立者（1282年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-16','births','1304年：元文宗图帖睦尔，元朝皇帝（1332年逝世）');
@@ -6518,6 +6552,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-17','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-17','births','1996年：俞竣晞，香港南區海怡東區議員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-17','births','1997年：齋藤千春，日本朝日電視台播音員，女子偶像團體乃木坂46前成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-17','births','1998年：蘇偉譯，馬來西亞男子羽球運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-17','births','1998年：盧卡斯·布里奇吉，瑞士男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-17','births','1999年：亨特·伍德霍尔，美國男子田徑運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-17','births','2000年：金龙熙，韓國男子偶像團體CIX成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-17','births','2002年：橫宮七海，日本AV女優（2023年逝世）');
@@ -7122,6 +7157,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-22','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-22','births','1996年：譚芷翎，香港女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-22','births','1996年：原风佳，日本女演员、模特儿');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-22','births','2000年：蒂莫西·維阿，美國職業足球運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-22','births','2005年：泰爾韋爾·扎姆菲羅夫，保加利亞男子單板滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-22','births','2008年：倫納特·卡爾，德國職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-22','births','生年不詳：小森結梨，日本女性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-22','births','生年不詳：關山美沙紀，日本女性聲優');
@@ -7254,6 +7290,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-23','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-23','births','1983年：米度，埃及足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-23','births','1986年：龜梨和也，日本藝人，組合KAT-TUN成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-23','births','1988年：於淼，香港演員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-23','births','1989年：埃文·貝茨，美國男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-23','births','1991年：瑠川里菜，日本AV女優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-23','births','1992年：达维德·别利亚夫斯基，俄羅斯體操運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-23','births','1992年：基里亞科斯·帕帕多普洛斯，希臘足球運動員');
@@ -7414,6 +7451,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('02-24','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-24','births','1993年：艾蜜莉·路德，美國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-24','births','1994年：岑日珈，香港女歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-24','births','1995年：福西勝也，日本男性聲優');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('02-24','births','1996年：姬拉·魏德勒-溫克爾曼，德國女子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-24','births','1997年：矢倉楓子，日本女子偶像團體NMB48成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-24','births','1997年：謝定峰，馬來西亞男子羽球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('02-24','births','1999年：伊駒百合繪，日本女性聲優');
@@ -8757,6 +8795,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('03-06','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-06','births','1997年：Luda，韓國女子偶像團體宇宙少女成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-06','births','1997年：布里安·阿法納多爾，波多黎各男子乒乓球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-06','births','1997年：吉野北人，日本男子團體THE RAMPAGE from EXILE TRIBE成員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('03-06','births','2001年：柔伊·薩多夫斯基-辛諾特，紐西蘭女子單板滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-06','births','2002年：生見愛瑠，日本模特兒、電視藝人');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-06','deaths','190年：後少帝刘辩，东汉废帝、弘农王（176年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-06','deaths','753年：高阳公主，唐太宗李世民的女儿（生年不详）');
@@ -8841,6 +8880,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('03-07','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-07','births','1939年：杜尚·馬拉威奇，塞爾維亞男子足球運動員（2025年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-07','births','1939年：悉尼·奧爾特曼，加拿大分子物理學家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-07','births','1942年：麥可·艾斯納，美國企業家，前任華特迪士尼公司執行長');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('03-07','births','1944年：麥可·羅斯巴希，美國遺傳學家，2017年諾貝爾生理學或醫學獎得主');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-07','births','1945年：谷垣禎一，日本政治人物');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-07','births','1950年：藤田進，巴西大使，該國首位日裔外交官（2016年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-07','births','1952年：道明·方濟各·若瑟·曼玻第，法國籍天主教執事級樞機，現任宗座聖璽最高法院院長');
@@ -8963,6 +9003,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1924年：路易·B·納恩，美國律師、政治人物，第52任肯塔基州州長（2004年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1922年：水木茂，日本漫畫家，代表作《鬼太郎》（2015年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1930年：韓達德，前英國外務大臣');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1933年：韋基舜，香港商人、報業人士、體育界人士（2026年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1936年：三美威魯，马来西亚政治人物、国大党在位最久的党主席。（2022年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1937年：朱韦纳尔·哈比亚利马纳，卢旺达政治人物、独裁者，第2任卢旺达总统（1994年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1938年：拉米婭·蓋拉尼·韋爾，伊拉克考古學家（2019年逝世）');
@@ -8993,6 +9034,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1974年：大山鎬則，日本男性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1975年：兒玉沙織，日本創作歌手、作詞家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1976年：大沼心，日本動畫導演');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1977年：詹姆士·范德比克，美國男演員（2026年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1978年：須藤元氣，日本格鬥家、政治人物');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1978年：遠藤海成，日本女性漫畫家、插畫家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-08','births','1978年：小松由佳，日本女性聲優、舞台演員');
@@ -9235,8 +9277,9 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('03-10','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-10','births','1993年：王笠人，中國女歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-10','births','1993年：王青，中國男歌手、演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-10','births','1993年：辛東根，韓國男子偶像團體BTOB成員');
-INSERT INTO history_in_today (monthday,type,content) VALUES ('03-10','births','1994年：壞痞兔，波多黎各饒舌歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-10','births','1994年：姜珮瑤，中國女演員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('03-10','births','1994年：壞痞兔，波多黎各饒舌歌手');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('03-10','births','1994年：羅馬娜·米拉多利，法國女子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-10','births','1996年：趙廷恩，韓國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-10','births','1996年：丹尼斯·維耶魯，摩爾多瓦男子柔道運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-10','births','1998年：胡明轩，中国男子篮球运动员');
@@ -9653,6 +9696,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('03-14','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-14','births','1905年：雷蒙·阿隆，法國社會學家（1983年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-14','births','1908年：莫里斯·梅洛-龐蒂，法國哲學家（1961年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-14','births','1911年：吉泽章，日本折纸艺术家（2005年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('03-14','births','1914年：水野清隆，日本超級人瑞（2026年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-14','births','1924年：赤木春惠，日本女演員（2018年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-14','births','1928年：弗兰克·博尔曼，美国宇航员');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-14','births','1929年：托馬斯·N·希巴德，美國數學家、計算機科學家（2016年逝世）');
@@ -10524,6 +10568,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('03-21','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-21','births','1837年：西奧多·吉爾，美國動物學家（1914年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-21','births','1839年：莫杰斯特·穆索尔斯基，俄羅斯作曲家（1881年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-21','births','1840年：林維源，台灣富商、紳士、官吏（1905年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('03-21','births','1855年：馬丁·B·馬登，美國政治人物（1928年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-21','births','1866年：安東妮亞·莫里，美国天文学家（1952年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-21','births','1867年：小弗洛倫茨·齊格菲爾德，美國百老匯戲劇製作人（1932年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-21','births','1884年：乔治·戴维·伯克霍夫，美国数学家（1944年逝世）');
@@ -11317,6 +11362,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('03-27','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-27','births','1990年：竹內惠美子，日本女性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-27','births','1991年：吳承允，韓國男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-27','births','1992年：悠木碧，日本女性聲優');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('03-27','births','1992年：瑞安·科克倫-西格爾，美國男子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-27','births','1993年：陳豐諺，新加坡男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-27','births','1996年：吕畅九，韩國男子偶像團體PENTAGON成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-27','births','1996年：成國，韓國男子偶像團體VANNER成員');
@@ -11392,6 +11438,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1945年：罗德里戈·杜特尔特，菲律賓政治人物、律師，第16任菲律賓總統');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1946年：亨利·鮑爾森，美國政治人物，前任美國財政部部長');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1949年：萊斯利·瓦利安特，美國計算機科學家（2014年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1949年：迈克尔·扬，美國遺傳學家，2017年諾貝爾生理學或醫學獎得主（2014年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1951年：胡大衛，臺灣男性配音員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1954年：朱時茂，中國男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1957年：哈維·格蘭斯，美國男子田徑運動員（2023年逝世）');
@@ -11405,7 +11452,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1969年：松澤夏樹，日本漫畫家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1969年：傑克·阿德爾斯坦，美國記者、犯罪作家、博客');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1971年：島津亞矢，日本演歌歌手');
-INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1971年]：賽伊達·沃爾希，英国女男爵和政治家');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1971年：賽伊達·沃爾希，英国女男爵、政治家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1972年：古谷實，日本漫畫家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1972年：尼克·佛洛斯特，英國男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-28','births','1973年：伊藤香奈子，日本女歌手');
@@ -11703,6 +11750,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('03-30','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-30','births','1998年：徐子軒，中國女子偶像團體SNH48成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-30','births','2000年：葉成龍，日本男歌手、演員、主持人');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-30','births','2001年：安娜斯塔西亞·波塔波娃，俄羅斯職業網球運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('03-30','births','2001年：喬瓦尼·法蘭佐尼，義大利男子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-30','births','2003年：泰迪·莎文-路維，英格蘭職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-30','births','生年不詳：陸惠玲，香港女性配音員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('03-30','births','生年不詳：長月葵，日本女性聲優');
@@ -12067,6 +12115,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('04-02','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-02','births','1999年：小宵虎南，日本AV女優。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-02','births','1999年：蘇菲·雷諾茲，美國女演員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-02','births','2001年：羅詩芳，中國女子舉重運動員。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('04-02','births','2002年：尼卡·埃加澤，喬治亞男子花式滑冰運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-02','births','2004年：慈英，日英混血職業足球員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-02','births','生年不詳：秋葉佑，日本男性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-02','deaths','271年：裴秀，中国地理學家（224年出生）');
@@ -12297,6 +12346,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('04-04','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-04','births','1999年：中村舞，日本女子偶像團體STU48成員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-04','births','2000年：戶鄉翔征，日本職業棒球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-04','births','2001年：山口真子，日本女子偶像團體NiziU隊長。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('04-04','births','2002年：達尼埃爾·格拉斯爾，義大利男子花式滑冰運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-04','births','生年不詳：松本洋子，日本漫畫家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-04','deaths','1588年：弗雷德里克二世，丹麥國王和挪威國王。（1534年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-04','deaths','1817年：安德烈·馬塞納，法國元帥。（1758年出生）');
@@ -12612,6 +12662,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('04-07','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-07','births','1992年：亞薩明·安薩里，美國氣候政策活動家、政治人物');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-07','births','1993年：溫琴佐·格里福，義大利職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-07','births','1994年：高市未來，日本女子柔道運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('04-07','births','1994年：葆拉·莫爾特贊，美國女子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-07','births','2000年：萬波中正，日本職業棒球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-07','births','2000年：塞巴斯蒂安·帕特里斯，法國男子擊劍運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-07','births','2003年：長井陽菜，韓國女子偶像團體LIGHTSUM成員');
@@ -13420,6 +13471,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('04-14','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-14','births','1989年：邱勝翊，台灣男子演唱團體JPM成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-14','births','1989年：ELISA，日本女歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-14','births','1989年：益山武明，日本男性聲優');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('04-14','births','1989年：多米尼克·帕里斯，義大利男子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-14','births','1990年：小松昌平，日本男性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-14','births','1990年：鄭允惠，韓國女藝人');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-14','births','1990年：阿里安娜·豐塔納，義大利女子短道速滑運動員');
@@ -13703,6 +13755,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('04-16','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-16','births','1979年：季芹，台灣演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-16','births','1979年：馬塞爾·拉普，德國職業足球運動員、教練');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-16','births','1980年：葉暐，香港男演員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('04-16','births','1980年：庄司將之，日本男性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-16','births','1982年：謝馨儀，台灣知名樂團蘇打綠貝斯手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-16','births','1982年：李昭娟，韓國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-16','births','1982年：吉娜·卡拉諾，美國女演員');
@@ -13929,6 +13982,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('04-18','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-18','births','1969年：黑田清子，日本天皇明仁之皇女');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-18','births','1970年：宋英奎，韓國男演員（2025年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-18','births','1970年：薩阿德·哈里里，沙地阿拉伯及黎巴嫩的商人及政治家');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('04-18','births','1971年：小川淳也，日本政治人物');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-18','births','1971年：莎曼珊·卡麥隆，英國首相大衛·卡麥隆的妻子');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-18','births','1971年：大衛·田納特，蘇格蘭男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-18','births','1972年：徐峥，中國演員、導演');
@@ -14074,6 +14128,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('04-19','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-19','births','1994年：韓雅凜，韓國女子偶像團體T-ara成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-19','births','1995年：克洛艾·瓦倫蒂尼，法國女子手球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-19','births','1998年：張雨霏，中國女子游泳運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('04-19','births','2000年：盧卡斯·皮涅羅·布羅滕，挪威-巴西男子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-19','births','2004年：金玄彬，韓國男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-19','births','生年不詳：竹田海渡，日本男性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-19','deaths','1390年：羅伯特二世，蘇格蘭國王。（1316年出生）');
@@ -14301,6 +14356,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('04-21','deaths','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-21','deaths','1910年：馬克·吐溫，美國幽默大師，代表作《汤姆·索亚历险记》。（1835年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-21','deaths','1918年：曼弗雷德·馮·里希特霍芬，德國王牌飛行員。（1892年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-21','deaths','1930年：艾伯特·馮·李寇克，德國探險家。（1860年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('04-21','deaths','1934年：卡爾斯滕·博克格雷溫克，挪威極地探險家。（1864年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-21','deaths','1938年：穆罕默德·伊克巴勒，印度穆斯林诗人、哲学家和政治家。（1877年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-21','deaths','1946年：約翰·梅納德·凱恩斯，英國經濟學家。（1883年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-21','deaths','1958年：蔡旨禪，台灣女性漢文詩人');
@@ -14983,6 +15039,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('04-27','deaths','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-27','deaths','1902年：朱利葉斯·斯特林·莫頓，美國農業部長，美國植樹節創辦者。（1832年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-27','deaths','1915年：亚历山大·斯克里亚宾，俄国作曲家、钢琴家。（1872年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-27','deaths','1919年：前島密，日本政治家，日本郵政之父。（1835年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('04-27','deaths','1928年：馬丁·B·馬登，美國政治人物。（1855年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-27','deaths','1972年：克瓦米·恩克魯瑪，迦納政治人物，首任迦納總統。（1909年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-27','deaths','1986年：約瑟夫·艾倫·海尼克，美國天文學家、幽浮學家。（1910年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-27','deaths','1992年：奥利維埃·梅西安，法國作曲家、風琴家、鳥類學家。（1908年出生）');
@@ -15288,6 +15345,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('04-30','births','2
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-30','deaths','125年：漢安帝劉祜，東漢皇帝。（94年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-30','deaths','1063年：宋仁宗赵祯，北宋皇帝。（1010年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-30','deaths','1524年：皮埃爾·泰拉伊·德·巴亞爾，法國貴族、騎士。（1473年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('04-30','deaths','1599年：松浦隆信，日本戰國時代肥前國大名。（1529年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-30','deaths','1632年：齊格蒙特三世·瓦薩，波蘭國王、立陶宛大公、瑞典國王。（1566年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-30','deaths','1637年：丹羽長重，日本安土桃山時代及江戶時代初期武將、大名。（1571年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('04-30','deaths','1792年：約翰·孟塔古，第四代三文治伯爵，英国政治家。（1718年出生）');
@@ -15590,6 +15648,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('05-03','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-03','births','1941年：諾娜·加普林達什維利，喬治亞女子西洋棋棋手，前西洋棋女子世界冠軍');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-03','births','1942年：薇拉·恰斯拉夫斯卡，捷克斯洛伐克體操選手（2016年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-03','births','1943年：吉姆·里施，美國政治人物');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('05-03','births','1945年：杰弗里·霍尔，美國遺傳學家，2017年諾貝爾生理學或醫學獎得主');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-03','births','1951年：段崇智，香港中文大學校長');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-03','births','1952年：豬口邦子，日本外交官、政治人物');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-03','births','1955年：蕭大陸，台灣演員');
@@ -15847,6 +15906,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('05-05','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-05','births','1999年：李娜恩，韓國女子偶像團體APRIL成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-05','births','1999年：陳巍，華裔美國男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-05','births','2000年：与田祐希，日本女子偶像團體乃木坂46成員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('05-05','births','2003年：鍵山優真，日本男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-05','births','2003年：卡洛斯·阿爾卡拉斯，西班牙職業網球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-05','births','2006年：喬許·阿昌龐，英格蘭職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-05','births','生年不詳：虎島貴明，日本男性聲優');
@@ -16311,8 +16371,9 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('05-09','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-09','births','1991年：許淑淨，台灣女子舉重運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-09','births','1991年：何超蓮與何猷啟，澳門賭王何鴻燊與其第三位太太陳婉珍所生');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-09','births','1993年：山田涼介，日本男演員、歌手');
-INSERT INTO history_in_today (monthday,type,content) VALUES ('05-09','births','1994年：呂會鉉，韓國男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-09','births','1994年：董柏霖，台灣男歌手');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('05-09','births','1994年：神戶文也，日本職業棒球運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('05-09','births','1994年：呂會鉉，韓國男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-09','births','1995年：凱西迪·庫克，美國女子跳水運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-09','births','1995年：湯米·艾德曼，美國職業棒球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-09','births','1996年：李日俊，韓國男演員');
@@ -16765,6 +16826,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('05-13','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-13','births','1995年：小池祐貴，日本男子田徑運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-13','births','1996年：安崎，中國女子偶像團體THE9成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-13','births','1999年：源菲然，香港女演員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('05-13','births','1999年：弗拉基米爾·薩莫伊洛夫，波蘭男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-13','births','2000年：雙笙，中國女歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-13','deaths','1573年：武田信玄，日本戰國時代大名。（1521年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-13','deaths','1612年：佐佐木小次郎，日本剑术家。');
@@ -17053,6 +17115,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('05-16','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-16','births','1966年：邁克爾·庫里拉，美國陸軍上將，現任美國中央司令部司令');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-16','births','1968年：邱淑貞，香港女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-16','births','1969年：塔克·卡森，美國新聞記者');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('05-16','births','1972年：張哲生，台灣文史工作者、懷舊達人');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-16','births','1972年：安傑伊·杜達，波蘭政治人物，現任波蘭總統');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-16','births','1973年：段奕宏，中國男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-16','births','1973年：鳥海浩輔，日本男性聲優');
@@ -17844,6 +17907,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('05-23','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-23','births','1999年：桑卓·馬穆克拉什維利，喬治亞－美國職業籃球員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-23','births','2000年：李佩玲，馬來西亞女歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-23','births','2001年：麥特·林茲，美國男演員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('05-23','births','2001年：亞歷山大·謝列夫科，愛沙尼亞男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-23','births','生年不詳：Eve，日本創作歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-23','deaths','1125年：亨利五世，神聖羅馬皇帝。（1081年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-23','deaths','1370年：元順帝妥懽帖睦尔，元朝皇帝。（1320年出生）');
@@ -18359,6 +18423,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('05-28','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-28','births','1994年：二宫真琴，日本网球运动员');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-28','births','1995年：長屋晴子，日本樂團綠黃色社會主唱');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-28','births','1997年：王玉雯，中國女演員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('05-28','births','1997年：露西婭·達爾馬索，義大利女子單板滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-28','births','1998年：鞘師里保，日本女歌手、演員、播音員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-28','births','1998年：金多賢，韓國女子偶像團體TWICE成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-28','births','1999年：翟潇闻，中國男子偶像團體R1SE成員');
@@ -18668,6 +18733,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('05-31','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-31','births','1962年：迪娜·博魯阿特，祕魯律師、政治人物，第64任祕魯總統');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-31','births','1963年：趙永馨，台灣演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-31','births','1963年：奧班·維克多，匈牙利政治人物，現任匈牙利總理');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('05-31','births','1964年：枝野幸男，日本政治人物');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-31','births','1965年：布魯克·雪德絲，美國女演員、模特兒');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-31','births','1966年：八神健，日本漫畫家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('05-31','births','1967年：有吉弘行，日本演員');
@@ -18993,6 +19059,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('06-03','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-03','births','1921年：于藍，中國女演員（2020年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-03','births','1931年：勞爾·卡斯特羅，古巴共產黨第一書記、古巴國務委員會主席');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-03','births','1942年：柯提斯·梅菲爾德，美國作曲家（1999年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('06-03','births','1943年：元谷外志雄，日本企業家（2026年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-03','births','1944年：彼得·邦菲爵士，英國電信執行委員會前董事長、首席執行長');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-03','births','1945年：約翰·德比希爾，美國作家、評論家、程式設計師');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-03','births','1947年：戴夫·亞歷山大，美國音樂家，丑角合唱團貝斯手（1975年逝世）');
@@ -19569,6 +19636,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','1938年：安日洛·阿馬托，義大利籍執事級樞機。（2024年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','1938年：李柱铭，香港政治家。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','1941年：喬治·佩爾，澳洲籍天主教司鐸級樞機。（2023年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','1942年：道格·蒙喬伊，威爾斯司諾克球員。（2021年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','1942年：邊希峰，韓國演員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','1948年：瑪莎·利拉德，美國脊髓灰質炎倖存者，最後一位仍然依靠鐵肺生活的人');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','1954年：蘇梅盧·布貝耶·馬伊加，馬里政治人物，曾任馬里總理。（2022年逝世）');
@@ -19613,6 +19681,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','2000年：張政禹，臺灣職業棒球運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','2001年：黃淑蔓，香港女歌手、演員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','2004年：筒井彩萌，日本女子偶像團體乃木坂46成員。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','2005年：三浦佳生，日本男子花式滑冰運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','2007年：多米妮卡·巴內維奇，立陶宛女子霹靂舞運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','births','生年不詳：Azure，日本插畫家。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-08','deaths','632年：穆罕默德，伊斯兰教创立者（約570年出生）');
@@ -20073,6 +20142,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('06-12','deaths','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-12','deaths','1980年：埃貢·皮爾遜，英國統計學家（1895年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-12','deaths','1980年：大平正芳，日本第68、69任首相（1910年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-12','deaths','1985年：華羅庚，中國數學家（1910年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('06-12','deaths','1990年：諫山春樹，日本陸軍軍官（1894年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-12','deaths','2003年：葛雷哥萊·畢克，美國男演員、社會活動家（1916年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-12','deaths','2006年：肯尼思·湯姆森（英语：en:Kenneth Thomson, 2nd Baron Thomson of Fleet），加拿大出版業巨頭（1923年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-12','deaths','2010年：陳有后，香港資深影視演員（1914年出生）');
@@ -20248,6 +20318,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('06-14','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-14','births','1946年：唐納·川普，美國企業家、政治人物，現任美國總統');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-14','births','1950年：李麗麗，香港女演員（2024年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-14','births','1950年：羅雲·威廉斯，英國教會聖職者、政治家、神學家、詩人，第104任坎特伯里大主教');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('06-14','births','1951年：亞歷山大·蘇古諾夫，俄羅斯電影導演');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-14','births','1954年：黃建新，中國電影導演');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-14','births','1958年：詹姆斯·格尼，美國藝術家、作家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-14','births','1958年：奧拉夫·蕭茲，德國政治人物，現任德國總理');
@@ -20470,6 +20541,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('06-16','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-16','births','1882年：穆罕默德·摩薩台，伊朗政治人物，第60、62任伊朗首相（1967年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-16','births','1888年：亚历山大·弗里德曼，苏联数学家、宇宙學家（1925年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-16','births','1891年：弗拉基米爾·阿爾比茨基，蘇聯天文學家（1952年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('06-16','births','1901年：亨利·列斐伏爾，法國哲學家、社會學家。（1991年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-16','births','1902年：芭芭拉·麥克林托克，美國細胞遺傳學家，1983年諾貝爾生理學或醫學獎得主。（1992年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-16','births','1903年：弗朗西斯·查爾斯·弗雷澤，蘇格蘭動物學家。（1978年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-16','births','1905年：林堯俊，臺灣影業經營贊助者。（1962年逝世）');
@@ -21475,7 +21547,6 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('06-24','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-24','births','1996年：何晉樂，香港男歌手、演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-24','births','1996年：多田修平，日本男子田徑運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-24','births','2002年：達爾朗·蘇沙，巴西男子排球運動員');
-INSERT INTO history_in_today (monthday,type,content) VALUES ('06-24','births','2003年：金善禹，韓國男子偶像團體ENHYPEN成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-24','births','2004年：柳起碩，韓國男子偶像團體DKZ成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-24','deaths','1398年：朱元璋，明朝开国皇帝（1328年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-24','deaths','1615年：片桐且元，日本戰國時代、江戶時代武將及大名（1556年出生）');
@@ -21586,6 +21657,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('06-25','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-25','births','2000年：金勢泫，韓國男子偶像團體DKZ成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-25','births','2001年：平手友梨奈，日本偶像團體欅坂46成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-25','births','2001年：明炯瑞，韓國女子Busters前成員，現為CLASS:y成員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('06-25','births','2004年：米哈伊爾·謝德羅夫，哈薩克男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-25','births','2006年：麥肯娜·葛瑞絲，美國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-25','deaths','635年：唐高祖李渊，唐朝开国皇帝（566年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-25','deaths','1031年：辽圣宗耶律隆绪，辽朝及契丹皇帝（972年出生）');
@@ -22056,6 +22128,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('06-29','deaths','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-29','deaths','1959年：苫米地義三，日本企業家、政治家，曾任眾議院議員、運輸大臣與內閣官房長官（1880年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-29','deaths','1967年：珍·曼絲菲，美國女演員（1933年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-29','deaths','1969年：莫伊茲·沖伯，剛果民主共和國軍閥（1919年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('06-29','deaths','1991年：亨利·列斐伏爾，法國哲學家、社會學家（1901年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-29','deaths','1993年：寇世遠，基督教傳教士，後創立基督之家，台北基督之家主任牧師寇紹恩為寇世遠四子，著名台灣基督徒藝人寇乃馨為寇世遠孫女(1920年出生)');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-29','deaths','2000年：維托里奧·加斯曼，義大利男演員、導演、編劇、電視節目主持人（1922年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-29','deaths','2003年：凯瑟琳·赫本，美国女演員，美国电影学会AFI百年百大明星評為百年來最偉大的女演員第1名（1907年出生）');
@@ -22135,6 +22208,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('06-30','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-30','births','1999年：橫田真悠，日本女演員、模特兒');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-30','births','1999年：須崎優衣，日本女子角力運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-30','births','2001年：奈良岡功大，日本男子羽球運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('06-30','births','2004年：木村葵來，日本男子單板滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-30','births','2007年：阿力米熱·阿卜都熱伊木，中國女子拳擊運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-30','deaths','945年：紀貫之，日本平安時代歌人。（生年不詳）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('06-30','deaths','1496年：日野富子，日本室町幕府第八代將軍足利義政的正室，第九代將軍足利義尚之母。（1440年出生）');
@@ -22383,6 +22457,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('07-02','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-02','births','1990年：瑪格·羅比，澳大利亞女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-02','births','1991年：金高銀，韓國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-02','births','1992年：鄺潔楹，香港女藝人');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('07-02','births','1992年：卓特蘭，美國女子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-02','births','1993年：岸洋佑，日本男歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-02','births','1993年：薩維蒂，美國饒舌創作型女歌手、演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-02','births','1995年：德瑞克·懷特，美國職業籃球運動員');
@@ -23198,6 +23273,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('07-08','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-08','births','1991年：維吉爾·范戴克，荷蘭足球運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-08','births','1992年：孫興慜，韓國足球運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-08','births','1993年：大衛·科倫斯韋，美國男演員。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('07-08','births','1996年：古畑星夏，日本模特兒、女演員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-08','births','1998年：傑登·史密斯，美國男演員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-08','births','1998年：瑪雅·霍克，美國女演員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-08','deaths','810年：丕平露·卡洛曼，義大利亞倫巴底國王。（771年出生）');
@@ -23808,6 +23884,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('07-13','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-13','births','1991年：安蘇瑪琳·瑟拉帕萨默莎，泰國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-13','births','1992年：于海龙，中國大胃王，美食短視频作者（2021年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-13','births','1992年：高梨雄平，日本職業棒球運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('07-13','births','1992年：傑奎琳·懷爾斯，美國女子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-13','births','1993年：能年玲奈，日本女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-13','births','1993年：羅冠聰，香港學運人士');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-13','births','1995年：廖秋雲，中國舉重運動員');
@@ -23925,6 +24002,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('07-14','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-14','births','1988年：康纳·麦格雷戈，愛爾蘭職業綜合格鬥運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-14','births','1989年：阿加特·罗素，法國電影演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-14','births','1990年：扬·涅波姆尼亚希，俄羅斯西洋棋棋手、特級大師');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('07-14','births','1990年：費代麗卡·布里尼奧內，義大利女子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-14','births','1991年：子望，中國女演員、作家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-14','births','1993年：山本彩，日本女子偶像團體NMB48成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-14','births','1993年：張文平，臺灣裔法國職業籃球運動員');
@@ -25249,6 +25327,8 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('07-24','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-24','births','1997年：安利·摩亚，土耳其職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-24','births','1998年：卡莉·史派妮，美國女演員、歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-24','births','2000年：高天亮，中國職業電競選手');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('07-24','births','2001年：弗蘭約·馮·阿爾曼，瑞士男子高山滑雪運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('07-24','births','2002年：木俁椋真，日本男子單板滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-24','births','2004年：李珠珢，韓國啦啦隊員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-24','births','生年不詳：稻垣好，日本女性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-24','deaths','811年：高郢，唐朝官员（740年出生）');
@@ -25777,6 +25857,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('07-28','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-28','births','1992年：段欣芮，中國男歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-28','births','1992年：范姜彥豐，台灣男演員、模特兒');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-28','births','1992年：趙佳恩，韓國模特兒、歌手');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('07-28','births','1992年：扎比內·派爾，奧地利女子單板滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-28','births','1993年：哈里·凱恩，英格兰職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-28','births','1993年：雪兒·洛薇，英國女歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('07-28','births','1994年：尚語賢，中國女演員');
@@ -26236,6 +26317,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('08-01','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-01','births','2000年：金采源，韓國女子偶像團體IZ*ONE、LE SSERAFIM成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-01','births','2000年：福岡聖菜，日本女子偶像團體AKB48成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-01','births','2001年：朴蒔恩，韓國女子偶像團體STAYC成員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('08-01','births','2001年：馬克西姆·瑙莫夫，美國男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-01','births','2003年：安性珉，韓國男子偶像團體CRAVITY成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-01','births','2003年：清宮玲，日本女子偶像團體乃木坂46成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-01','births','2005年：吳徽姸，韓國女子偶像團體LIGHTSUM成員');
@@ -26368,6 +26450,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('08-02','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-02','births','1998年：陳珏，中國女歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-02','births','1999年：李敏亨，韓國男子偶像團體NCT成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-02','births','2000年：矢澤宏太，日本職業棒球運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('08-02','births','2000年：薩拉·孔蒂，義大利女子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-02','births','2000年：穆罕默德·庫杜斯，迦納足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-02','births','2001年：麥迪遜·馬胥，美國空軍軍官');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-02','births','生年不詳：閻子丹，日本男性聲優');
@@ -27013,6 +27096,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('08-08','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-08','births','2001年：曾俊欣，台灣職業網球選手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-08','births','2001年：賀喜遙香，日本女子偶像團體乃木坂46成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-08','births','2001年：北川悠理，日本女子偶像團體乃木坂46成員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('08-08','births','2005年：劉美賢，華裔美國女子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-08','births','生年不詳：中村達也，日本男姓聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-08','deaths','1551年：托馬斯·德·貝蘭加，西班牙天主教會主教、探險家（1487年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-08','deaths','1809年：上田秋成，日本作家、歌人（1734年出生）');
@@ -27116,6 +27200,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','births','1998年：Leejung，韓國舞者');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','births','1998年：澤利姆·科佐耶夫，亞塞拜然男子柔道運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','births','1999年：宋旼琦，韓國男子偶像團體ATEEZ成員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','births','1999年：丹尼斯·瓦西里耶夫斯，男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','births','2000年：陳姸霏，臺灣女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','births','2001年：佐藤璃果，日本女子偶像團體乃木坂46成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','births','2002年：高橋宏斗，日本職業棒球運動員');
@@ -27137,6 +27222,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','deaths','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','deaths','1953年：奧古斯特·吉魯，法國男子橄欖球運動員（1874年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','deaths','1956年：托比阿斯·丹齊格，俄裔美國數學家、科普作家（1884年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','deaths','1962年：赫尔曼·黑塞，德国作家，1946年诺贝尔文学奖得主（1877年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','deaths','1969年：莎伦·塔特，美國女演员（1943年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','deaths','1975年：德米特里·肖斯塔科维奇，苏联作曲家（1906年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','deaths','1980年：賈桂琳·科克倫，美國女飛行員，第一位駕駛飛機超越音障的女性（1906年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-09','deaths','1984年：沃爾特·特維斯，美國小說家（1928年出生）');
@@ -27452,6 +27538,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('08-12','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-12','births','1987年：八月長安，中國女作家。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-12','births','1988年：泰森·福瑞 ，英國職業拳擊運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-12','births','1989年：閔先藝 ，韓國女子偶像團體Wonder Girls成員。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('08-12','births','1989年：沙萊娜·吉尼亞爾 ，義大利女子花式滑冰運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-12','births','1990年：马里奥·巴洛特利，意大利籍足球運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-12','births','1991年：壯壯，台灣主持人、歌手、藝人。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-12','births','1991年：姜潮，中國男歌手、演員');
@@ -28749,6 +28836,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','births','1991年：曹寶兒，韓國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','births','1991年：鄭爽，中國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','births','1991年：费德里科·马凯达，義大利足球運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','births','1992年：木原龍一，日本男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','births','1993年：勞拉·達爾邁爾，德國女子冬季兩項運動員（2025年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','births','1994年：林亭翰，台灣男歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','births','1995年：杜娃·黎波，英國歌手、詞曲作者、模特');
@@ -28794,6 +28882,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','deaths','2
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','deaths','2019年：李在德，中国朝鲜族东北抗日联军女战士（1918年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','deaths','2022年：大衛·道格拉斯-休姆，英国貴族，第十五代休姆伯爵（1943年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','deaths','2023年：托托·庫圖尼奧，義大利創作歌手、音樂家（1943年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','deaths','2025年：康士爵士，英國殖民地及海外法官，香港最高法院上訴庭副庭長（1928年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-22','deaths','2025年：伍榮生，中國氣象學家（1934年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-23','events','前30年：在成功占领埃及之后，屋大维处死了托勒密王国的最后一位法老凯撒里昂，以及马克·安东尼的长子。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('08-23','events','406年：将领斯提里科率罗马军大败哥特人的大军，处死哥特王，并将一万二千哥特人并入罗马军队或卖身为奴。');
@@ -30718,8 +30807,9 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('09-05','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-05','births','1996年：西格麗德，挪威女歌手、詞曲作家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-05','births','1997年：林襄，台灣女藝人，組合Dragon Beauties成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-05','births','1997年：齊藤京子，日本女子偶像團體日向坂46成員');
-INSERT INTO history_in_today (monthday,type,content) VALUES ('09-05','births','1998年：達維昂·米契爾，美國職業籃球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-05','births','1998年：小倉優香，日本寫真偶像、模特兒');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('09-05','births','1998年：達維昂·米契爾，美國職業籃球運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('09-05','births','1998年：馬泰奧·里佐，義大利男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-05','births','2001年：王志煊，臺灣職業棒球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-05','births','2001年：布卡約·薩卡，英格蘭職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-05','births','2005年：余之之，香港童星');
@@ -30846,6 +30936,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('09-06','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-06','births','1996年：拉娜·羅德斯，美國女色情演員、模特兒');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-06','births','1998年：吳家忻，香港女藝人');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-06','births','1999年：派偉俊，臺灣男歌手');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('09-06','births','2003年：吉田唄菜，日本女子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-06','births','2006年：悠仁親王，日本皇室成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-06','births','生年不詳：袴田米良，日本漫畫家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-06','births','生年不詳：三嶋黑音，日本女性插畫家、漫畫家');
@@ -32773,6 +32864,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('09-20','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-20','births','1997年：集貝花，日本女性聲優。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-20','births','1998年：指出毬亞，日本女性聲優。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-20','births','1999年：藤咲凪，日本歌星、寫真偶像。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('09-20','births','2003年：蘇珊娜·馬傑羅娃，捷克女子單板滑雪運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-20','births','2007年：烏納蒂·胡達，印度女子羽球運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-20','births','生年不詳：阿部里果，日本女性聲優。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-20','deaths','1415年：歐文·格林杜爾，威爾斯親王。（1354年出生）');
@@ -32960,6 +33052,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('09-22','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-22','births','1829年：嗣德帝，越南阮朝皇帝（1883年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-22','births','1835年：波铁布尼亚·奧巴納索維基，烏克蘭語言學家、哲學家、民俗學家、文學評論家、教育家（1891年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-22','births','1841年：安德烈斯·普姆普爾，拉脫維亞作家、新聞工作者（1902年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('09-22','births','1841年：約翰·C·斯卡伯勒，美國教育工作者、官員（1917年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-22','births','1842年：亨利·埃米爾·瑟維吉，法國古生物學家、魚類學家、兩棲爬蟲動物學家（1917年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-22','births','1870年：夏洛特·庫珀，英國女子網球運動員，世界上第一個獲得奧運會冠軍的女性（1966年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('09-22','births','1875年：米卡洛尤斯·丘爾廖尼斯，立陶宛畫家、作曲家、作家（1911年逝世）');
@@ -34305,6 +34398,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('10-01','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-01','births','1990年：查理·麥克唐納，英國音樂家、主持人。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-01','births','1990年：安東尼·洛佩斯，葡萄牙職業足球運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-01','births','1991年：张阳阳，中國男歌手。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('10-01','births','1991年：文森特·克里希邁爾，奧地利男子高山滑雪運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-01','births','1992年：汪小敏，中國女歌手。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-01','births','1992年：湯姆·希契科克，英格蘭職業足球運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-01','births','1993年：林子閎，台灣男子偶像團體SpeXial成員。');
@@ -34524,6 +34618,8 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('10-03','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-03','births','1989年：篠谷聖，日本男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-03','births','1991年：高城亞樹，日本女子偶像團體AKB48成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-03','births','1992年：安啾咪，台灣Youtuber');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('10-03','births','1995年：卡塔琳娜·胡貝爾，奧地利女子高山滑雪運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('10-03','births','1997年：金博洋，中國男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-03','births','1997年：高橋朱里，日本女子偶像團體AKB48前成員、韓國女子偶像團體Rocket Punch成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-03','births','1997年：方燦，韓國男子偶像團體Stray Kids隊長');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-03','births','1999年：阿拉米斯·奈特，美國男演員');
@@ -35170,6 +35266,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('10-08','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-08','births','1997年：王瑞昌，中國男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-08','births','1997年：玉城蒂娜，日本女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-08','births','1997年：約什·克爾，英國男子田徑運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('10-08','births','1997年：馬爾科·奧德馬特，瑞士男子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-08','births','1999年：大原優乃，日本女演員、寫真偶像、歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-08','births','1999年：喬治·彼得羅維奇，塞爾維亞職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-08','births','2001年：羅嘉翎，臺灣女子跆拳道運動員');
@@ -35856,6 +35953,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('10-13','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-13','births','1990年：普嘉·海迪，印度女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-13','births','1990年：佛洛里安·蒙特亞努，羅馬尼亞裔德國籍演員、模特兒');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-13','births','1992年：歐豪，中國男歌手、演員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('10-13','births','1992年：曼努埃爾·費勒，奧地利男子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-13','births','1993年：石川界人，日本男性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-13','births','1994年：渡邊雄太，日本男子籃球員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-13','births','1995年：朴智旻，韓國男子偶像團體防彈少年團成員');
@@ -36055,6 +36153,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('10-15','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-15','births','1917年：小亞瑟·史列辛格，美國歷史學家、社會評論家（2007年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-15','births','1920年：白錦祥，中國象棋棋手（1996年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-15','births','1920年：馬里奧·普佐，美國作家，代表作《教父》（1999年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('10-15','births','1921年：西摩·本澤，美國物理學家、分子生物學家、行為遺傳學家（2007年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-15','births','1921年：阿爾·皮斯，英國裔加拿大賽車手（2014年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-15','births','1924年：伊塔羅·卡爾維諾，意大利作家（1985年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-15','births','1924年：李·艾科卡，美國企業家（2019年逝世）');
@@ -36237,6 +36336,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('10-16','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-16','births','1984年：林熹瞳，香港女藝人。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-16','births','1984年：徐翠翠，中國女演員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-16','births','1984年：夏恩·華德，英國男歌手。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('10-16','births','1985年：本亞明·卡爾，奧地利男子單板滑雪運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-16','births','1986年：陳奕，台灣男歌手、演員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-16','births','1986年：喬丹·拉爾森，美國女子排球運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-16','births','1987年：趙麗穎，中國女演員。');
@@ -36527,6 +36627,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('10-18','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-18','births','1995年：楊蕎安，台灣女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-18','births','1995年：浦和希，日本男性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-18','births','1995年：皮拉瓦·山坡提拉，泰國男演員、歌手、主持人');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('10-18','births','1995年：尼科洛·馬奇，義大利男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-18','births','1998年：杉野正堯，日本男子競技體操運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-18','births','1998年：瑪麗亞·荷西·帕拉西奧斯，厄瓜多女子拳擊運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-18','births','2004年：福田真琳，日本女子偶像團體Tsubaki Factory成員');
@@ -36890,6 +36991,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('10-21','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-21','births','1995年：丹尼爾·波登塞，葡萄牙職業足球運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-21','births','1996年：宋芳園，中國女演員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-21','births','2000年：伊藤美誠，日本女子乒乓球運動員。');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('10-21','births','2001年：車俊煥，韓國兒童演員、男子花式滑冰運動員。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-21','births','生年不詳：Shiyui，日本女歌手。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-21','deaths','1266年：比爾耶爾伯爵，瑞典執政伯爵。（約1210年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-21','deaths','1422年：查理六世，法蘭西國王。（1368年出生）');
@@ -37734,6 +37836,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('10-28','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-28','births','1997年：泰勒·弗里茨，美國職業網球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-28','births','1998年：宮原颯希，日本女性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-28','births','1998年：史蒂芬·內多羅西克，美國男子競技體操運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('10-28','births','1999年：安柏·格倫，美國女子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-28','births','2000年：中山莉子，日本偶像藝人、女子偶像組合私立惠比壽中學成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-28','deaths','312年：马克森提乌斯，罗马帝国皇帝（278年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-28','deaths','1138年：波列斯瓦夫三世，波兰国王（1086年出生）');
@@ -37871,10 +37974,12 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','1990年：陳冠宇，台灣旅日職業棒球選手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','1990年：陳蕾，香港女性創作歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','1991年：魏然，中國男歌手');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','1992年：科爾內利婭·許特爾，奧地利女子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','1993年：Leo王，台灣創作歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','1995年：毛衍七，中國女歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','1995年：克麗斯塔·出口，加拿大女子柔道運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','1996年：陳哲遠，中國歌手、演員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','1996年：洛伊克·梅亞爾，瑞士男子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','1998年：蘭斯·斯托爾，加拿大一級方程式賽車車手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','1999年：馮琳，中國女主持人');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('10-29','births','2003年：奧馬利·赫捷臣，牙買加職業足球運動員');
@@ -38251,6 +38356,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('11-01','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-01','births','1952年：古屋圭司，日本政治人物，現任日本眾議院議員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-01','births','1953年：羅致光，香港政治人物，曾任社會福利界立法會議員、勞工及福利局局長。');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-01','births','1953年：石丸謙二郎，日本演員、配音員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('11-01','births','1957年：阿不都熱合曼·阿尤甫，中國指揮家');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-01','births','1958年：查理·卡夫曼，美國編劇、監製、導演');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-01','births','1959年：安奭奐，韓國男演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-01','births','1959年：原榮里子，日本女性聲優');
@@ -38997,6 +39103,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('11-06','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-06','births','1996年：宣叡仁，韓國男子偶像團體UP10TION成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-06','births','1996年：張丞延，韓國女子偶像團體CLC成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-06','births','1997年：希羅·范恩斯·提芬，英國男演員、模特兒');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('11-06','births','2002年：拉拉·納基·古特曼，義大利女子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-06','deaths','1003年：教宗若望十七世，罗马主教（966年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-06','deaths','1231年：土御門天皇，日本第83代天皇（1195年/1196年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-06','deaths','1406年：教宗依諾增爵七世，罗马主教（1336年出生）');
@@ -39164,6 +39271,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('11-07','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-07','births','2002年：奧瑪里·瓊斯，美國男子拳擊運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-07','births','2003年：申惟，韓國男子偶像團體TWS成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-07','births','2004年：井藤智哉，日本男性聲優');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('11-07','births','2004年：村瀨心椛，日本女子單板滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-07','births','生年不詳：大野智敬，日本男性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-07','deaths','691年：岑长倩，唐朝宰相（生年不详）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-07','deaths','691年：格輔元，唐朝官员（生年不详）');
@@ -40124,6 +40232,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('11-13','births','2
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-13','births','2001年：孫慧舟，韓國女子偶像團體本月少女成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-13','births','2002年：喬瓦尼·雷納，美國職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-13','births','2002年：艾瑪·拉杜卡努，英國職業網球運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('11-13','births','2003年：埃瑪·艾歇爾，德國女子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-13','births','2005年：萊尼·約羅，法國職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-13','deaths','867年：教宗尼閣一世，羅馬主教（820年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-13','deaths','1093年：马尔科姆三世，苏格兰国王（1031年出生）');
@@ -40450,6 +40559,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('11-15','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-15','births','1992年：峯岸南，日本女藝人、YouTuber、女子偶像團體AKB48成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-15','births','1992年：崔佛·史托瑞，美国棒球运动员');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-15','births','1992年：奇雲·維馬，奥地利足球运动员');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('11-15','births','1992年：索菲婭·戈賈，義大利女子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-15','births','1993年：劉也，中國男子偶像團體R1SE成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-15','births','1993年：紗綾，日本女寫真偶像');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-15','births','1993年：保羅·戴巴拿，阿根廷職業足球員');
@@ -40624,6 +40734,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('11-16','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-16','births','1998年：方振宇，臺灣帕運羽球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-16','births','2000年：漢娜·漢普頓，英格蘭職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-16','births','2001年：吉迪朋·瑟利維查亞薩瓦，泰國演員、歌手');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('11-16','births','2003年：森田真沙也，日本男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-16','births','生年不詳：澤田姬，日本女性聲優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-16','deaths','897年：顾彦晖，唐朝军阀（生年不详）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-16','deaths','987年：沈倫，宋朝政治家（909年出生）');
@@ -41066,6 +41177,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('11-19','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-19','births','1995年：塔拉·蘇塔里亞，印度女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-19','births','1996年：萱和磨，日本男子競技體操運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-19','births','1996年：克里斯季娜·季馬諾夫斯卡婭，白俄羅斯女子短跑運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('11-19','births','1996年：坦居伊·內夫，瑞士男子高山滑雪運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-19','births','1997年：柳洙正，韓國女子偶像團體Lovelyz成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-19','births','1998年：根尾明里，日本AV女優');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-19','births','1999年：丁澤仁，中國男子偶像團體樂華七子NEXT成員');
@@ -41617,6 +41729,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('11-22','births','2
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-22','births','2000年：奧莉伊·卡拉瓦爾侯，美國女演員、歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-22','births','2001年：鍾辰樂，韓國男子偶像團體NCT成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-22','births','2004年：小小彬，臺灣演員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('11-22','births','2006年：李宇翔，臺灣男子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-22','births','2007年：譚芷昀，香港女歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-22','births','生年不詳：金光宣明，日本男性聲優、舞台演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-22','births','生年不詳：和田將彌，日本男性聲優');
@@ -42787,6 +42900,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('11-30','deaths','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-30','deaths','1998年：谭宗尧，中国话剧演员（1944年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-30','deaths','1999年：黃信介，臺灣政治人物，民主進步黨創始人之一（1928年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-30','deaths','2000年：沈澄，香港法官（1935年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('11-30','deaths','2007年：西摩·本澤，美國物理學家、分子生物學家、行為遺傳學家（1921年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-30','deaths','2012年：因德爾·庫馬爾·古吉拉爾，印度政治人物，第12任印度總理（1919年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-30','deaths','2013年：保羅·沃克，美國好萊塢男星（1973年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('11-30','deaths','2014年：吳清源，华裔日本棋手（1914年出生）');
@@ -42815,6 +42929,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('12-01','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-01','births','1792年：尼古拉·羅巴切夫斯基，俄羅斯数學家（1856年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-01','births','1831年：瑪麗亞·阿梅利亞，巴西帝國公主（1853年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-01','births','1844年：亞歷山德拉，大英帝國皇后、印度帝國皇后（1925年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('12-01','births','1864年：卡爾斯滕·博克格雷溫克，挪威極地探險家（1934年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-01','births','1872年：費利克斯·桑茨基，瑞士昆蟲學家（1940年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-01','births','1878年：萧长华，中国京剧表演艺术家（1967年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-01','births','1883年：路易吉·甘納，義大利職業公路自行車賽車手，首屆環意自行車賽總冠軍（1957年逝世）');
@@ -45136,6 +45251,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('12-17','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-17','births','1999年：佐佐木美玲，日本女子偶像團體日向坂46成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-17','births','1999年：任敏，中國女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-17','births','2001年：小野田紗栞，日本女子偶像團體Tsubaki Factory成員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('12-17','births','2001年：三浦璃來，日本女子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-17','births','2001年：阿布德·埃扎洛佐利，摩洛哥職業足球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-17','births','2005年：徐翔聖，台灣-日本職業棒球運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-17','births','2007年：塞文子爵詹姆士，英國女王伊莉莎白二世孫子、愛德華王子兒子');
@@ -45564,6 +45680,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('12-20','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-20','births','1998年：楊嘉欣，香港女演員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-20','births','1998年：基利安·姆巴佩，法國職業足球運動');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-20','births','2003年：利奧波德·奎菲爾德，奧地利職業足球運動員');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('12-20','births','2004年：埃莉·甘，美國女子花式滑冰運動員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-20','births','2007年：豫風瑠乃，日本女子偶像團體Tsubaki Factory成員');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-20','births','2011年：鄧品硯，臺灣男歌手');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-20','deaths','69年：維特里烏斯，羅馬皇帝（15年出生）');
@@ -46424,6 +46541,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('12-26','deaths','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-26','deaths','1896年：埃米爾·杜布瓦-雷蒙，德國內科醫生、生理學家（1818年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-26','deaths','1902年：伊麗莎白·凱迪·斯坦頓，美國作家、行動主義者，19世紀美國女權運動領袖（1815年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-26','deaths','1909年：瑪麗·簡·理查森·瓊斯，非裔美國慈善家，倡導女性參政權、主張廢除奴隸制（1819年出生）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('12-26','deaths','1917年：約翰·C·斯卡伯勒，美國教育工作者、官員（1841年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-26','deaths','1944年：朱生豪，中国翻译家（1912年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-26','deaths','1945年：维新帝，越南阮朝第11任君主（1900年出生）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-26','deaths','1958年：莫幹生，香港紳商，太古洋行末任買辦（1882年出生）');
@@ -47039,6 +47157,7 @@ INSERT INTO history_in_today (monthday,type,content) VALUES ('12-31','births','1
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-31','births','1927年：喬治·H·米利，美國數學家、計算機科學家（2010年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-31','births','1930年：歐蒂塔，美國非裔音樂家、演員、吉他手、作詞家、人權活動家，被譽為「美國民權之聲」（2008年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-31','births','1930年：葉惠康，香港作曲家、指揮家、音樂教育家，被譽為香港的「兒童合唱團之父」（2024年逝世）');
+INSERT INTO history_in_today (monthday,type,content) VALUES ('12-31','births','1931年：鮑勃·肖，北愛爾蘭科幻小說作家（1996年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-31','births','1935年：薩勒曼·本·阿卜杜勒-阿齊茲·阿勒沙特，沙特阿拉伯第七任國王');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-31','births','1937年：米盧廷·紹什基奇，塞爾維亞男子足球運動員（2022年逝世）');
 INSERT INTO history_in_today (monthday,type,content) VALUES ('12-31','births','1937年：日枝久，日本企業家');
